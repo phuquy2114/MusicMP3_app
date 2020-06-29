@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Demo UI</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="jonhnie_businessman">Jonhnie Businessman</string>
+    <string name="welcome_back">WELCOME BACK</string>
+    <string name="username">USERNAME</string>
+    <string name="login_to_your_app">LOGIN TO YOUR APP</string>
+    <string name="or_login_with">OR LOGIN WITH</string>
+    <string name="password">PASSWORD</string>
+    <string name="channel_name">music play</string>
+    <string name="channel_description">description music</string>
+    <string name="music_name">music name</string>
+    <string name="singer">Singer</string>
+</resources>
